@@ -13,9 +13,9 @@
 
 <h3>omniauth</h3>
 <p>Authentication (signup/login with social accounts like Twitter, Facebook)</p>
-<p>https://github.com/omniauth/omniauth </p>
-<p>https://github.com/arunagw/omniauth-twitter </p>
-<p>https://github.com/mkdynamic/omniauth-facebook</p>
+<p>https://github.com/omniauth/omniauth <br>
+https://github.com/arunagw/omniauth-twitter <br>
+https://github.com/mkdynamic/omniauth-facebook</p>
 
 <br>
 
