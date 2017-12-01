@@ -1,6 +1,3 @@
-Gems I use. I will continue updating as I discover more and better options...
-
-<br><br>
 
 <h3>will_paginate</h3>
 Pagination
@@ -15,9 +12,9 @@ https://github.com/plataformatec/devise
 <br><br>
 
 <h3>omniauth</h3>
-Authentication (signup/login with social accounts like Twitter, Facebook)
-https://github.com/omniauth/omniauth 
-https://github.com/arunagw/omniauth-twitter 
+Authentication (signup/login with social accounts like Twitter, Facebook)<br>
+https://github.com/omniauth/omniauth <br>
+https://github.com/arunagw/omniauth-twitter <br>
 https://github.com/mkdynamic/omniauth-facebook
 
 <br><br>
