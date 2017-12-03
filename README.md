@@ -3,7 +3,7 @@
 <p>Image Optimisation</p>
 <p>https://github.com/toy/image_optim</p>
 
-
+<br>
 <h1>❤️ Gems I love and have been using</h1>
 
 <h3>will_paginate</h3>
