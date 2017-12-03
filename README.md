@@ -1,3 +1,10 @@
+<h1>🤔 Gems I want to try out</h1>
+<h3>image_option</h3>
+<p>Image Optimisation</p>
+<p>https://github.com/toy/image_optim</p>
+
+
+<h1>❤️ Gems I love and have been using</h1>
 
 <h3>will_paginate</h3>
 <p>Pagination</p>
