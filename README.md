@@ -3,6 +3,10 @@
 <p>Image Optimisation</p>
 <p>https://github.com/toy/image_optim</p>
 
+<h3>high_voltage</h3>
+<p>Easily include static pages</p>
+<p>https://github.com/thoughtbot/high_voltage</p>
+
 <br>
 <h1>❤️ Gems I love and have been using</h1>
 
